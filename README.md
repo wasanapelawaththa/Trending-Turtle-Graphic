@@ -39,8 +39,7 @@ python spiral_art.py
 🐢 A turtle window will open and draw the pattern live.
 
 ## 🧪 Example Preview
-(Include screenshots in the screenshots/ folder and link here if available)
-
+https://github.com/wasanapelawaththa/Trending-Turtle-Graphic/blob/main/ExampleGraphic.png)
 
 ## 🎯 Future Ideas
 Add a GUI to choose patterns
